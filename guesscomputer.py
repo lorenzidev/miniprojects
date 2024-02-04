@@ -13,7 +13,7 @@ def guess(x):
         elif guess > random_number:
             print('Sorry, guess again. Too high')
 
-    print(f'You got it! Winner!' The number was {random_number})
+    print(f'You got it! Winner! The number was {random_number}')
 
 
 
