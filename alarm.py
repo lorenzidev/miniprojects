@@ -8,6 +8,3 @@ if alarm == True:
     print('This is an automated message. I am calling police! Get out!')
 else:
     print('You are good! No alarm.')
-
-
-
